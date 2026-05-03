@@ -1,4 +1,3 @@
-```markdown
 # Robosprint 2026 ROS2 Robot System
 
 This project is a ROS2-based robot system developed for the REC Robosprint 2026 competition.  
