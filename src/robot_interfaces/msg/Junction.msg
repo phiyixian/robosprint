@@ -1,0 +1,2 @@
+string zone
+float32 confidence
